@@ -1,0 +1,15 @@
+# P&L Check
+
+> P&L Check — open-source протокол: факты → сверка прибыли и денег → бриф для решения. Без угадывания, без шаблонных советов. Apache-2.0.
+
+## Documentation
+- [README](./README.md): RU hero, quick start, battle test example, JSON-LD
+- [SKILL.md](./skills/pnl-check/SKILL.md): Full skill — 10 indicators, 5 evidence levels, safety rails
+- [Battle test](./examples/pnl-discovery-economy-2026-09-14.md): Real run on Discovery economy
+- [CHANGELOG](./CHANGELOG.md): Version history
+- [Templates](./templates/): context_questionnaire, pnl_structure.csv, data_gap_report
+
+## Links
+- [GitHub Repository](https://github.com/r0undm1dn1ghty-star/pnl-check)
+- [Discovery System](https://discovery-system.ru)
+- [Telegram](https://t.me/discoverysystem)
