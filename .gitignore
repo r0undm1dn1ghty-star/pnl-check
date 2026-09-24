@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Данные — НИКОГДА не коммить
+data/raw/
+data/extracted/
+*.xlsx
+*.xls
+*.csv
+!templates/*.csv
+
+# Секреты
+.env
+*.key
+*_KEY*
+
+# OS
+.DS_Store
+Thumbs.db
